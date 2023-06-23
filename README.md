@@ -24,9 +24,4 @@
  
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/Gustavo-Paper/Gustavo-Paper/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
